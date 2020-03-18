@@ -1,0 +1,3 @@
+json-server --watch -H 这里是你的IPv4地址 db.json
+例如: json-server --watch -H 192.168.0.101 db.json
+用 ipconfig 查询

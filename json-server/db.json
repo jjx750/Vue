@@ -1,0 +1,260 @@
+{
+  "classify": [
+    {
+      "id": "101",
+      "name": "生鲜",
+      "classifyName": [
+        {
+          "name": "海鱼",
+          "src": "/img/classify/sidebar/fresh/marineFish.jpg"
+        },
+        {
+          "name": "水果",
+          "src": "/img/classify/sidebar/fresh/fruits.jpg"
+        },
+        {
+          "name": "肉类",
+          "src": "/img/classify/sidebar/fresh/pork.jpg"
+        },
+        {
+          "name": "海鲜",
+          "src": "/img/classify/sidebar/fresh/shellfish.jpg"
+        },
+        {
+          "name": "蔬菜",
+          "src": "/img/classify/sidebar/fresh/vegetables.jpg"
+        },
+        {
+          "name": "蛋类",
+          "src": "/img/classify/sidebar/fresh/egg.jpg"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "name": "数码",
+      "classifyName": [
+        {
+          "name": "荣耀",
+          "src": "/img/classify/sidebar/digital/honor.png"
+        },
+        {
+          "name": "iphone",
+          "src": "/img/classify/sidebar/digital/iphone.png"
+        },
+        {
+          "name": "小米",
+          "src": "/img/classify/sidebar/digital/mi.png"
+        },
+        {
+          "name": "魅族",
+          "src": "/img/classify/sidebar/digital/meizu.png"
+        },
+        {
+          "name": "VIVO",
+          "src": "/img/classify/sidebar/digital/vivo.png"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "name": "食品",
+      "classifyName": []
+    },
+    {
+      "id": "104",
+      "name": "女装",
+      "classifyName": []
+    },
+    {
+      "id": "105",
+      "name": "运动",
+      "classifyName": []
+    },
+    {
+      "id": "106",
+      "name": "电器",
+      "classifyName": []
+    },
+    {
+      "id": "107",
+      "name": "百货",
+      "classifyName": []
+    }
+  ],
+  "goodsList": [
+    {
+      "id": 201,
+      "name": "数码",
+      "list": [
+        {
+          "id": 1001,
+          "name": "华为 HUAWEI 畅享 9S 4GB+128GB 极光蓝 全网通 2400万超广角三摄珍珠屏大存储 移动联通电信4G手机 双卡双待",
+          "src": "/img/list/commodity/HUAWEI 9S.jpg",
+          "word1": "6.21英寸",
+          "word2": "6GB运存",
+          "word3": "64GB0",
+          "price": 1099
+        },
+        {
+          "id": 1002,
+          "name": "华为（HUAWEI）nova 4e",
+          "src": "/img/list/commodity/HUAWEI nova4e.jpg",
+          "word1": "6.15英寸",
+          "word2": "6GB运存",
+          "word3": "128GB",
+          "price": 1399
+        },
+        {
+          "id": 1003,
+          "name": "华为 HUAWEI Mate 30 5G 麒麟990 4000万超感光徕卡影像双超级快充8GB+128GB亮黑色5G全网通游戏手机",
+          "src": "/img/list/commodity/HUAWEI Mate 30 5G.jpg",
+          "word1": "8GB运存",
+          "word2": "128GB",
+          "word3": "黑色",
+          "price": 1099
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "name": "服饰",
+      "list": [
+        {
+          "id": 1001,
+          "name": "华为 HUAWEI 畅享 9S 4GB+128GB 极光蓝 全网通 2400万超广角三摄珍珠屏大存储 移动联通电信4G手机 双卡双待",
+          "src": "/img/list/commodity/HUAWEI 9S.jpg",
+          "word1": "6.21英寸",
+          "word2": "6GB运存",
+          "word3": "64GB0",
+          "price": 1099
+        },
+        {
+          "id": 1002,
+          "name": "华为（HUAWEI）nova 4e",
+          "src": "/img/list/commodity/HUAWEI nova4e.jpg",
+          "word1": "6.15英寸",
+          "word2": "6GB运存",
+          "word3": "128GB",
+          "price": 1399
+        },
+        {
+          "id": 1003,
+          "name": "华为 HUAWEI Mate 30 5G 麒麟990 4000万超感光徕卡影像双超级快充8GB+128GB亮黑色5G全网通游戏手机",
+          "src": "/img/list/commodity/HUAWEI Mate 30 5G.jpg",
+          "word1": "8GB运存",
+          "word2": "128GB",
+          "word3": "黑色",
+          "price": 1099
+        }
+      ]
+    }
+  ],
+  "product": [
+    {
+      "id": 1001,
+      "name": "华为 HUAWEI 畅享 9S 4GB+128GB 极光蓝 全网通 2400万超广角三摄珍珠屏大存储 移动联通电信4G手机 双卡双待",
+      "src": "/img/list/commodity/HUAWEI 9S.jpg",
+      "price": 1099,
+      "swipe": [
+        "/img/goods/swipe/1001/01.jpg",
+        "/img/goods/swipe/1001/02.jpg",
+        "/img/goods/swipe/1001/03.jpg",
+        "/img/goods/swipe/1001/04.jpg",
+        "/img/goods/swipe/1001/05.jpg",
+        "/img/goods/swipe/1001/06.jpg",
+        "/img/goods/swipe/1001/07.jpg"
+      ]
+    }
+  ],
+  "sku": [
+    {
+      "id": 1001,
+      "sku": {
+        "tree": [
+          {
+            "k": "颜色",
+            "v": [
+              {
+                "id": "1011",
+                "name": "幻夜黑",
+                "imgUrl": "/img/list/commodity/HUAWEI Mate 30 5G.jpg",
+                "previewImgUrl": "/img/list/commodity/HUAWEI Mate 30 5G.jpg"
+              },
+              {
+                "id": "1012",
+                "name": "珊瑚红",
+                "imgUrl": "/img/list/commodity/HUAWEI Mate 30 5G.jpg",
+                "previewImgUrl": "/img/list/commodity/HUAWEI Mate 30 5G.jpg"
+              }
+            ],
+            "k_s": "s1"
+          },
+          {
+            "k": "版本",
+            "v": [
+              {
+                "id": "1021",
+                "name": "4GB+64GB",
+                "imgUrl": "/img/list/commodity/HUAWEI Mate 30 5G.jpg",
+                "previewImgUrl": "/img/list/commodity/HUAWEI Mate 30 5G.jpg"
+              },
+              {
+                "id": "1022",
+                "name": "6GB+64GB",
+                "imgUrl": "/img/list/commodity/HUAWEI Mate 30 5G.jpg",
+                "previewImgUrl": "/img/list/commodity/HUAWEI Mate 30 5G.jpg"
+              }
+            ],
+            "k_s": "s2"
+          }
+        ],
+        "list": [
+          {
+            "id": 2259,
+            "price": "9990",
+            "s1": "1011",
+            "s2": "1021",
+            "stock_num": 110,
+            "name": "幻夜黑 4GB+64GB"
+          },
+          {
+            "id": 2259,
+            "price": "9990",
+            "s1": "1012",
+            "s2": "1021",
+            "stock_num": 110,
+            "name": "珊瑚红 4GB+64GB"
+          },
+          {
+            "id": 2259,
+            "price": "10990",
+            "s1": "1012",
+            "s2": "1022",
+            "stock_num": 110,
+            "name": "珊瑚红 6GB+64GB"
+          }
+        ],
+        "price": "999.00",
+        "stock_num": 244,
+        "collection_id": 2261,
+        "none_sku": false,
+        "hide_stock": false,
+        "goods": {
+          "picture": "/img/list/commodity/HUAWEI 9S.jpg"
+        }
+      }
+    }
+  ],
+  "home": [
+    {
+      "id": 1,
+      "swipeImg": [
+        "/img/home/swipe/swipe_01.jpg",
+        "/img/home/swipe/swipe_02.jpg",
+        "/img/home/swipe/swipe_03.jpg",
+        "/img/home/swipe/swipe_04.jpg"
+      ]
+    }
+  ]
+}
