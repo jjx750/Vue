@@ -33,4 +33,5 @@ IPv4修改成自己的IPv4地址，例如:  let url = "http://192.168.9.999:3000
 ### 安装后使用
 ```
 json-server --watch -H 这里写你的IPv4地址 db.json
+例如:json-server --watch -H 192.168.9.999 db.json
 ```
