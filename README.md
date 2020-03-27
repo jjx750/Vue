@@ -18,7 +18,7 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 数据在json-server里面
+### 数据格式跟数据都在json-server里面
 ```
 npm install -g json-server
 ```
